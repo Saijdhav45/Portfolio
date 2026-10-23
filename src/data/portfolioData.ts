@@ -72,9 +72,9 @@ export const portfolioData: PortfolioConfig = {
     headline: "Building Reliable Backends. Creating Intelligent Applications.",
     bio: "I am a Java backend and full-stack engineer specializing in robust REST APIs, high-availability microservices with Spring Cloud, and seamless Google Gemini AI integrations. I bridge enterprise architectural patterns with modern developer velocity to build dependable software.",
     location: "India (Open to Global Remote / Freelance)",
-    email: "sainath.dev.contact@gmail.com", // [CONFIGURABLE: Replace with your primary email]
+    email: "saijadhav2k25@gmail.com", // [CONFIGURABLE: Replace with your primary email]
     github: "https://github.com/Saijdhav45",
-    linkedin: "https://linkedin.com/in/sainath-jadhav-dev", // [CONFIGURABLE: Replace with your LinkedIn profile]
+    linkedin: "https://www.linkedin.com/in/sainath45", // [CONFIGURABLE: Replace with your LinkedIn profile]
     resumeUrl: "/resume.pdf", // [CONFIGURABLE: Place your resume in /public/resume.pdf]
     isAvailableForFreelance: true, // Controls the "Available for work / projects" status badge
     availabilityStatusText: "Available for Freelance & Select Roles",
@@ -183,7 +183,7 @@ export const portfolioData: PortfolioConfig = {
         "Docker Compose setup provisioning all microservices and databases locally with one command",
       ],
       architecture: "Client -> Spring Cloud API Gateway -> Eureka Discovery -> [Auth, Order, Restaurant, Payment Microservices] -> MySQL DB Cluster",
-      githubUrl: "https://github.com/Saijdhav45", // [UPDATE WITH SPECIFIC REPO WHEN PUSHED]
+      githubUrl: "https://github.com/Saijdhav45/Smart-Food-Ordering-Microservices", // [UPDATE WITH SPECIFIC REPO WHEN PUSHED]
     },
     {
       id: "email-writer-ai",
@@ -235,7 +235,7 @@ export const portfolioData: PortfolioConfig = {
         "Pre-configured Docker container ready for cloud deployment on AWS ECS or Render",
       ],
       architecture: "Client Application -> Spring Security Auth -> Input Sanitizer -> Gemini Client Service (Resilience4j) -> Google Gemini API",
-      githubUrl: "https://github.com/Saijdhav45",
+      githubUrl: "https://github.com/Saijdhav45/AI-Chat-API",
     },
   ],
 
