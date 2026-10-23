@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sainath-jadhav.vercel.app/sitemap.xml
